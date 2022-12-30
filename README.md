@@ -18,6 +18,6 @@ Hello, word! Eu sou a Marcelly Diaz
   ##
 
  
-  ![Snake animation](https://github.com/marcellydiazz/marcellydiazz/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/marcellydiaz/marcellydiazz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
