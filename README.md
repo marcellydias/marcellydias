@@ -1,4 +1,4 @@
-Hello, word! Eu sou a Marcelly Diaz
+Hello, world! Eu sou a Marcelly Diaz!
 
 - 🔭Cursando Análise e Desenvolvimento de Sistemas | 2º Semestre
 - ⚡Estudando front-end
