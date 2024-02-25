@@ -1,6 +1,6 @@
 Hello, world! Eu sou a Marcelly Dias!
 
-- 🔭Cursando Análise e Desenvolvimento de Sistemas | 3º Semestre
+- 🔭Cursando Análise e Desenvolvimento de Sistemas | 4º Semestre
 - ⚡Estudando frontend 
 
 <div align="center">
